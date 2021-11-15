@@ -5,8 +5,6 @@ Farbpalette
 
 Rot
 Grün
-Hellgrün
-Dunkelgrün
 Blau
 Gelb
 Magenta
